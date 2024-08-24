@@ -1,0 +1,26 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "toll api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon start server5.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "dv",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.3.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0",
+    "winston": "^3.8.2"
+  }
+}

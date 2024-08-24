@@ -1,0 +1,49 @@
+{
+    "level": "error",
+    "message": {
+        "error": {
+            "code": "PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR",
+            "fatal": false
+        },
+        "msg": "Something went wrong",
+        "requestID": "292c0a5f-ea90-4417-a786-a64135abbf7a",
+        "type": "Error"
+    }
+}
+{
+    "level": "error",
+    "message": {
+        "error": {
+            "code": "PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR",
+            "fatal": false
+        },
+        "msg": "Something went wrong",
+        "requestID": "68804e48-00da-4a70-b2f4-7871a5979204",
+        "type": "Error"
+    }
+}
+{
+    "level": "error",
+    "message": {
+        "error": {
+            "code": "PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR",
+            "fatal": false
+        },
+        "msg": "Something went wrong",
+        "requestID": "36fbfdbe-18e2-4394-9659-6faa1b74cc0a",
+        "type": "Error"
+    }
+}{
+    "level": "error",
+    "message": {
+        "error": {
+            "code": "PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR",
+            "fatal": false
+        },
+        "msg": "Something went wrong",
+        "requestID": "8bde6fbc-6afd-4f04-a089-27aa992217f3",
+        "type": "Error"
+    }
+}{"level":"error","message":{"error":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"msg":"Something went wrong","requestID":"be793cad-75ac-46cd-b1ea-42fd4ecf01b9","type":"Error"}}
+{"level":"error","message":{"error":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"msg":"Something went wrong","requestID":"be363b20-5e14-4b17-b343-9c4d66f59397","type":"Error"}}
+{"level":"error","message":{"error":{"code":"ER_NO_SUCH_TABLE","errno":1146,"index":0,"sql":"Select * from tests","sqlMessage":"Table 'tollplaza.tests' doesn't exist","sqlState":"42S02"},"msg":"Something went wrong","requestID":"7d2b6fd4-954d-4200-8f23-a2dd9312f33a","type":"Error"}}
